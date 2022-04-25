@@ -2,7 +2,7 @@
 #===================================================================================================================
 # NOME DO SCRIPT: executa_processos.sh
 # FUNCAO: Executa a cadeia de processos por comando de linha
-# ====================================================================================================================
+# ==================================================================================================================
 
 # Cria os diretorios no HDFS e no Unix
 sh /home/jcarlospj/treinamentos/docker-bigdata/projetos/covid/scripts/cria.diretorios.sh
