@@ -13,7 +13,7 @@ pip install kafka-python
 Execução dos processos:
 
 ```
-sh scripts/executa_processos.sh
+sh scripts/executa.processos.sh
 ```
 
 
